@@ -1,0 +1,8 @@
+D:\VS2022\C#练习\三角函数练习\bin\Debug\三角函数练习.exe.config
+D:\VS2022\C#练习\三角函数练习\bin\Debug\三角函数练习.exe
+D:\VS2022\C#练习\三角函数练习\bin\Debug\三角函数练习.pdb
+D:\VS2022\C#练习\三角函数练习\obj\Debug\三角函数练习.csproj.AssemblyReference.cache
+D:\VS2022\C#练习\三角函数练习\obj\Debug\三角函数练习.csproj.SuggestedBindingRedirects.cache
+D:\VS2022\C#练习\三角函数练习\obj\Debug\三角函数练习.csproj.CoreCompileInputs.cache
+D:\VS2022\C#练习\三角函数练习\obj\Debug\三角函数练习.exe
+D:\VS2022\C#练习\三角函数练习\obj\Debug\三角函数练习.pdb
